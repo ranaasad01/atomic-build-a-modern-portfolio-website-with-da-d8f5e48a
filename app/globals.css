@@ -11,5 +11,6 @@
   
     --primary: #7FFFD4;
     --background: #0D0F12;
+    --font-display: var(--font-sans, ui-sans-serif, system-ui, sans-serif);
 }
 }
