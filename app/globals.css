@@ -8,9 +8,12 @@
     --card: 0 0% 100%;
     --border: 240 5.9% 90%;
     --muted-foreground: 240 3.8% 46.1%;
-  
     --primary: #7FFFD4;
     --background: #0D0F12;
     --font-display: var(--font-sans, ui-sans-serif, system-ui, sans-serif);
+  }
 }
+
+body {
+  font-feature-settings: "cv02", "cv03", "cv04", "cv11";
 }
