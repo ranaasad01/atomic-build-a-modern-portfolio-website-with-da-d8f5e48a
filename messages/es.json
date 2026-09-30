@@ -1,0 +1,16 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "work": "Trabajo",
+    "about": "Acerca de",
+    "contact": "Contacto",
+    "homeAria": "Kiran Voss, volver al inicio",
+    "openMenu": "Abrir menú",
+    "closeMenu": "Cerrar menú"
+  },
+  "footer": {
+    "navAria": "Navegación del pie de página",
+    "copyright": "© {year} Kiran Voss. Todos los derechos reservados.",
+    "builtWith": "Diseñado y construido en Lisboa."
+  }
+}
